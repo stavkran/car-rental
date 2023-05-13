@@ -1,2 +1,2 @@
 # car-rental
-A Java Car Rental web app for
+A Java Car Rental web app 
